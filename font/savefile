@@ -1,0 +1,31 @@
+ <!-- <span class="orange-2 font-20">[ 'Contact me By' ]</span> -->
+                <div class="contact-container">
+                    <div class="ufo-container">
+                        <div class="ufo">
+                            <img src="./image/ufo-rotate.png" alt="" class="ufo-img">
+                        </div>
+                    </div>
+                    <div class="elian-container">
+                        <div class="tell-and-gmail">
+                            <div class="tell">
+                                <span class="blue">"My Tell" =></span>
+                                <a href="tell:09013422106" class="hover orange-2">+98-901-342-2106</a>
+                            </div>
+                            <div class="tellegram">
+                                <span class="blue">"My Tellegram" =></span>
+                                <a href="tell:09013422106" class="hover orange-2">@morningstare_404</a>
+                            </div>
+                            <div class="gmail">
+                                <span class="blue">"My gmail" =></span>
+                                <a href="" class="hover orange-2">mshsaman185@gmail.com</a>
+                            </div>
+                        </div>
+                        <div class="talk">
+                            <span>[ 'contact me by' ]</span>
+                            <img src="./image/talck-1.png" alt="" class="talk-img">
+                        </div>
+                        <div class="elian">
+                            <img src="./image/elian-2.png" alt="" class="elian-img">
+                        </div>
+                    </div>
+                </div>

@@ -1,0 +1,88 @@
+@media only screen and (max-width: 769px) {
+
+    .img-background {
+        display: none;
+    }
+
+    .mobile-bk {
+        display: block;
+    }
+
+    .menu {
+        margin-top: 1rem;
+        padding-inline: .5rem;
+        flex-direction: column-reverse;
+    }
+
+    .menu>ul {
+        gap: 0.5rem;
+        font-size: 10px;
+    }
+
+    .logo {
+        width: 50px;
+        height: 50px;
+    }
+
+    .animation-typer::after {
+        font-size: 25px;
+    }
+
+    .aniWrap {
+        display: none;
+    }
+
+    .typer-container span,
+    .typer-container p {
+        font-size: 8px;
+    }
+
+    .typer-container {
+        gap: 1rem;
+    }
+
+    .skills>div {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .skills p {
+        font-size: 30px;
+    }
+
+    #typewriter {
+        font-size: 12px;
+    }
+
+    .about-me {
+        flex-direction: column;
+    }
+
+    .about-container {
+        width: 90%;
+        font-size: 10.5px;
+    }
+
+    /* .none {
+        display: flex;
+    }
+
+    .contact-me {
+        display: none;
+    } */
+
+    .text > span{
+        font-size: 20px;
+    }
+
+    .waves{
+        height: 50%;
+    }
+
+   
+
+
+
+
+}
